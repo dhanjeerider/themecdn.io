@@ -48,22 +48,11 @@ var codeElements = document.querySelectorAll("pre");
         document.body.removeChild(tempTextArea);
         
         showBottomAlert();
-    }
+    };
     function showBottomAlert() {
         var bottomAlert = document.getElementById("bottomAlert");
         bottomAlert.style.display = "block";
         setTimeout(function() {
             bottomAlert.style.display = "none";
         }, 3000);
-    }
-
-var prevScrollpos = window.pageYOffset;
-  window.onscroll = function() {
-    var currentScrollPos = window.pageYOffset;
-    if (prevScrollpos &gt; currentScrollPos) {
-      document.getElementById(&quot;ATnav&quot;).style.bottom = &quot;20px&quot;;
-    } else {
-      document.getElementById(&quot;ATnav&quot;).style.bottom = &quot;-80px&quot;;
-    }
-    prevScrollpos = currentScrollPos;
-  }
+    };
