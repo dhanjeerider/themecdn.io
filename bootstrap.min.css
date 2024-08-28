@@ -79,27 +79,9 @@ margin-right:3px; font-weight:500;
   ol.style1 li ul li{margin-bottom:15px}ol.style1 li ul{margin-top:15px}.drK ol.style1>li::before{color:rgb(220, 226, 224);border-color:rgba(220, 226, 224)}.drK ol.style1>li::before{color:#00bfff} 
 /* h2 */
 .bx h2{background-image:linear-gradient(to right,#25aae1,#4481eb,#04befe,#3f86ed);box-shadow:0 4px 15px 0 rgba(65,132,234,0.75);Color:white;padding:10px;border-radius:7px;padding:8px 20px!important;position:absolute;margin:0!important;font-size:17px!important;top:-20px;font-weight:bold;left:30px;text-transform:uppercase}.bx.yellow h2{background-image:linear-gradient(to right,#0ba360,#3cba92,#30dd8a,#2bb673);box-shadow:0 4px 15px 0 rgba(23,168,108,0.75);Color:white;padding:10px;border-radius:7px}.bx.blue h2{background-image:linear-gradient(to right,#f5ce62,#e43603,#fa7199,#e85a19);box-shadow:0 4px 15px 0 rgba(229,66,10,0.75);Color:white;padding:10px;border-radius:7px}.bx.box-red h2{background:#f7176a} .bx.pink h2{background-image:linear-gradient(to right,#7f00ff, #00FFFF);box-shadow:0 4px 15px 0 rgba(116,79,168,0.75);Color:white;padding:10px;border-radius:7px}
-
-.wcSafeShow{position:relative;display:flex;margin:auto} 
-.safeWrap{position:fixed;top:0;left:0;bottom:0;right:0;background:rgba(0,0,0,.5);z-index:999999;-webkit-backdrop-filter:blur(6px);backdrop-filter:blur(6px)}.panel-primary{background:#fff;text-align:center;display:block;overflow:hidden;width:100%;max-width:80%;padding:0 0 25px 0;border-radius:5px;margin:15% auto;box-shadow:0 1px 3px rgba(0,0,0,0.12),0 1px 2px rgba(0,0,0,0.24)}.panel-body{position:relative;margin:0 25px}.panel-heading h2{background:#ff0088;color:#fff;margin:0 auto 25px auto;font-weight:400;padding:15px;font-size:20px}.panel-body input{background:rgba(0,0,0,0.04);width:100%;padding:15px;border-radius:15px;border:1px solid transparent;font-size:16px;color:#000;outline:none;text-indent:60px;transition:all .3s}.panel-body input:focus{background:#fff;color:#000;border-color:#ff0088;outline:none;box-shadow:0 0 5px rgba(0,0,0,0.1)}.panel-body .input-group-btn{position:absolute;top:0;right:0}.panel-body button{border-radius:0 5px 5px 0;background:#ff0088;color:#fff;border:0;padding:17px 52px;font-weight:500;outline:none;transition:all .3s}.panel-body button:hover,.panel-body button:focus{background:#ff0088;outline:none}#generatelink{margin:20px auto 0 auto}#generatelink button{background:#ff0088;border-radius:15px;font-size:14px;padding:14px 32px}#generatelink button:hover,#generatelink button:focus{background:#ff0088;border-radius:5px;font-size:14px}#generatelink input{background:rgba(0,0,0,0.05);text-indent:0}#generatelink input:hover,#generatelink input:focus{background:#ff0088;border-color:transparent;box-shadow:none}#generateloading{margin:20px auto 0 auto;font-size:20px;color:#ff0088;font-weight:normal}
-.panel-body:before{content:'\279C';background:rgba(0,0,0,0.05);position:absolute;left:0;top:0;color:#888;padding:17px 20px;border-radius:15px 0 0 5px;border-right:1px solid transparent;transition:all .6s}.panel-body:focus-within:before{content:'\279C';background:#ff0088;color:#fff}.bt-success{display:inline-flex;align-items:center;margin:15px 15px;padding:10px 20px;outline:0;border:0;border-radius:5px;color:#fefefe;background-color:#ff0088;font-size:14px;white-space:nowrap;overflow:hidden;max-width:100%;line-height:2em}.bt-success:hover{color:#ff0088;background-color:transparent;border:1px solid #ff0088}.hidden,.bt-success.hidden{display:none}.wcSafeClose{display:inline-flex;align-items:center;margin:15px auto -15px;padding:5px 15px;outline:0;border:0;border-radius:12px;color:#fefefe;background-color:#ff0088;font-size:14px;white-space:nowrap;overflow:hidden;max-width:100%;line-height:2em}.copytoclipboard{margin:10px auto 5px}
-#timer{margin:0 auto 20px auto;width:80px;text-align:center}.pietimer{position:relative;font-size:200px;width:1em;height:1em}.pietimer > .percent{position:absolute;top:25px;left:12px;width:3.33em;font-size:18px;text-align:center;display:none}.pietimer > .slice{position:absolute;width:1em;height:1em;clip:rect(0px,1em,1em,0.5em)}.pietimer >.slice.gt50{clip:rect(auto,auto,auto,auto)}.pietimer > .slice > .pie{border:0.06em solid #c0c0c0;position:absolute;width:80px;height:80px;clip:rect(0em,0.5em,1em,0em);border-radius:50%}.pietimer > .slice > .pie.fill{-moz-transform:rotate(180deg)!important;-webkit-transform:rotate(180deg)!important;-o-transform:rotate(180deg)!important;transform:rotate(180deg)!important}.pietimer.fill > .percent{display:none}.pietimer.fill > .slice > .pie{border:transparent;background-color:#c0c0c0;width:1em;height:1em}
-.wcSafeShow svg{fill:none!important;stroke:#48525c;stroke-linecap:round;stroke-linejoin:round;}
-#generateloading svg{width:22px;height:22px;fill:#ff0088}
-.btn-primary svg,.darkMode .btn-primary svg{fill:none;stroke:#fff;stroke-width:1.5;width:22px;height:22px;vertical-align:-5px;margin-right:10px}
-@media screen and (max-width:768px){.panel-body .input-group-btn{display:block;position:relative;overflow:hidden;margin:20px auto 0 auto}.panel-body button{border-radius:15px;width:100%}}
-@media screen and (max-width:480px){.panel-primary{margin-top:30%}}
-  
-.darkMode .panel-primary{background:#2d2d30;color:yellow;}
-.darkMode .panel-body input,.darkMode .panel-body input:focus{background:#2d2d30;color:#fefefe}
-.darkMode .wcSafeClose{color:yellow}
- .item-snippet{display: none;}
-    
-
+.item-snippet{display: none;}
 /*Your custom CSS is here*/
-
-.dm{
-       display: block;
+.dm{display: block;
     width: 100%;
     max-width: 300px;
     margin: 0 auto;
