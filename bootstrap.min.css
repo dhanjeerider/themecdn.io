@@ -265,4 +265,27 @@ position: absolute;
      background: rgb(0,0,0,.55);
      }                
  .entry-meta .me-3{color:var(--jt-heading-color);} 
-  
+  .flx{
+    display: flex;
+    
+    justify-content: space-between;
+    margin: -10px 5px 8px 5px; } .ddemo{
+  color:var(--jt-heading-color);
+  padding: 6px 20px;
+    border: 1.4px solid #ccc; 
+    border-radius: 4px;
+    font-weight: bold;
+    text-transform: capitalize;
+    text-decoration: none;
+    display: inline-block;
+ }
+.ddemo:hover{
+background:#0057ff;
+color: #fff; transform:translateY(-2px); transition: .3s ease;} 
+.price{color:var(--jt-link-color);}
+.ddemo svg{width:24px; height:24px;}
+
+.item-thumbnail:hover{ transform: scale(1.04); transition: .7s ease;}
+.categories ul li a{font-size:12px;}
+.brdr{border:1px solid #00689b;}
+#header{ background: var(--grdt);}
