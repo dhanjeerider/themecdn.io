@@ -238,19 +238,31 @@ iframe.skiptranslate{border-left:none!important;border-top:none!important;border
 .goog-te-gadget-simple{background-color:transparent!important;background:url(&quot;https://upload.wikimedia.org/wikipedia/commons/d/d7/Google_Translate_logo.svg&quot;) center / 12px no-repeat;-webkit-transition:all .2s ease;transition:all .2s ease;background-size: 20px 20px;display:inline-block;font-weight:400;line-height: 1.8;padding:0 6px;text-align:center;white-space:nowrap;vertical-align: middle;-ms-touch-action: manipulation;touch-action:manipulation;cursor:pointer;-webkit-user-select: none;-moz-user-select:none;-ms-user-select:none;user-select:none;border-left:none!important;border-top:none!important;border-bottom:none!important;border-right:none!important;border-radius: 4px}
 
 .dark-mode .goog-te-gadget-simple{background-color:transparent!important;background:url(&quot;https://upload.wikimedia.org/wikipedia/commons/d/d7/Google_Translate_logo.svg&quot;) center / 12px no-repeat;-webkit-transition:all .2s ease;transition:all .2s ease;background-size: 20px 20px;}
-
-.fullbox{ background: #fff; display: flex; flex-direction: row; justify-content: space-around; align-items: center; padding: 2px; position: fixed; bottom: 10px; Left: 2px; Right: 2px; transition:box-shadow 0.6s cubic-bezier(.79,.21,.06,.81); border-radius: 10px; z-index: 9999999999996; 
-width: 96%;
-
-  margin: 0 auto; 
-box-shadow: rgba(9, 30, 66, 0.25) 0px 1px 1px, rgba(9, 30, 66, 0.13) 0px 0px 1px 1px;
-} 
-
-.icnre{ height: 40px!important; width: 40px!important; margin: 4px 19px; display: flex; flex-direction: column; justify-content: center; align-items: center; -webkit-tap-highlight-color: rgba(0,0,0,0); -webkit-tap-highlight-color: transparent; color: rgba(42, 52, 84, 1); text-decoration: none; }
-.share-button button{ border: none; background: transparent;} 
-
-  @media screen and (min-width: 485px) { .fullbox{ Width: 100%; } } @media screen and (min-width: 485px) { .icnre{ width: 50px; height: 50px; } } .fullbox { transition: all .5s ease-in-out; } .hide-ATnav { display: none; } 
-.icnre svg{
-    width: 28px;    
+.htitle{background: var(--gd-bg); -webkit-background-clip: text; -webkit-text-fill-color: transparent; text-transform: capitalize; filter: drop-shadow(1px 2px 1px #b5b5b5):}
+.padding{padding-right:4px;}
+.navbar-collapse{
+   margin: 10px; 
+ border-radius: 10px;    
 }
-/*# sourceMappingURL=bootstrap.min.css.map */
+
+.pre{font-family: "Courier";
+background:var(--bs-body-bg);border:.5px solid #ccc;} #alrt p{display:inline;font-size: 14px;}
+    #alrt a{background: crimson; color: white;text-decoration: none;font-weight:bold;text-transform: capitalize; padding: 4px 10px;border-radius: 20px; font-size: 12px;} 
+#alrt a:hover{background: #0081ff;} 
+.closebtn{ 
+position: absolute;
+ font-size: 24px; transition: .3s; right: 0px; top: -15px;}
+ .closebtn:hover { color: #000; cursor: pointer;} 
+#alrt .widget-title{display:none;}
+.alert{line-height:26px;}
+
+.fullbox{ background:var(--bs-body-bg);  display: flex; flex-direction: row; justify-content: space-around; align-items: center; padding: 2px; position: fixed; bottom: 5px; Left: 2px; Right: 2px; transition:box-shadow 0.6s cubic-bezier(.79,.21,.06,.81); border-radius: 10px; z-index: 9999999999996; width: 96%; margin: 0 auto; box-shadow: rgba(9, 30, 66, 0.25) 0px 1px 1px, rgba(9, 30, 66, 0.13) 0px 0px 1px 1px; } .icnre{ height: 40px!important; width: 40px!important; margin: 4px 19px; display: flex; flex-direction: column; justify-content: center; align-items: center; -webkit-tap-highlight-color: rgba(0,0,0,0); -webkit-tap-highlight-color: transparent; color: rgba(42, 52, 84, 1); text-decoration: none; } .share-button button{ border: none; background: transparent;} @media screen and (min-width: 485px) { .fullbox{ Width: 100%; } } @media screen and (min-width: 485px) { .icnre{ width: 50px; height: 50px; } } .hide-ATnav { display: none;} .fullbox { transition: all .5s ease; } .icnre svg{ width: 28px; }
+.collapse,.navbar-collapse{transition:1.3s all ease;}
+    .dark-mode body{
+ background: linear-gradient(135deg,#25003a,#000d32,#25003a);background-attachment: fixed;}
+  
+ .dark-mode #header-main{  
+     background: rgb(0,0,0,.55);
+     }                
+ .entry-meta .me-3{color:var(--jt-heading-color);} 
+  
