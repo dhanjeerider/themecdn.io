@@ -75,10 +75,10 @@
   ],
   "shortcuts": [
     {
-      "name": "blogger template",
-      "short_name": "blogger template",
-      "description": "Quick access to blogger template",
-      "url": "/search/label/paid?utm_source=homescreen",
+      "name": "Join telegram",
+      "short_name": "Join telegram group",
+      "description": "Quick access to our official telegram",
+      "url": "https://t.me/dktechnozone",
       "icons": [
         {
           "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWf12nycBwaEfqVL08CAwuRN9EUZOd4s47l0oJAn96vTX8liQm74jFh3GmxEM1TgyGY6x0PJ1MMFwRc0-QWio3qbA_QLuc8mNj-4TybvWbmuqHAsI5JYV3T1SYT6y7yYtWyhOuAs0ri3_O1fRFC4Y3heI328E-kJTpaAOVwx6iA4YkxxMlTRhGnEYh/s180/180.png",
@@ -87,10 +87,10 @@
       ]
     },
     {
-      "name": "Prayer Points",
-      "short_name": "Prayers",
-      "description": "Quick access to prayer points",
-      "url": "/search/label/Prayer%20Points?utm_source=homescreen",
+      "name": "Tools",
+      "short_name": "seo tools",
+      "description": "Quick access to sep tools",
+      "url": "https://www.dktechnozone.in/p/tools.html",
       "icons": [
         {
           "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWf12nycBwaEfqVL08CAwuRN9EUZOd4s47l0oJAn96vTX8liQm74jFh3GmxEM1TgyGY6x0PJ1MMFwRc0-QWio3qbA_QLuc8mNj-4TybvWbmuqHAsI5JYV3T1SYT6y7yYtWyhOuAs0ri3_O1fRFC4Y3heI328E-kJTpaAOVwx6iA4YkxxMlTRhGnEYh/s180/180.png",
