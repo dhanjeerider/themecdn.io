@@ -1,8 +1,8 @@
 {
   "version": "1.0",
-  "name": "dk technzone",
-  "short_name": "Dk technozone",
-  "description": "Install Dk technozone  App and browse our website faster",
+  "name": "Multi moviez",
+  "short_name": "Multi moviez",
+  "description": "Install Multi moviez App and browse our website faster",
   "dir": "auto",
   "lang": "en-US",
   "orientation": "any",
@@ -14,61 +14,100 @@
   "theme_color": "#34003d",
   "icons": [
     {
-      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi3D8nS4rfC8BU0t5eAkLosRH4kBrAV3dH5Y8TYQVceKIXLUuO63C54HSkDIyDIJwvdXvJx8ZDWSQ5_5gEEWVXrszaXmHSKiECloWLADQvssri34ippuZhGvdBTZzijLQDGW3s_Vnu2KBZqjoZu5lTT5PxN1BBuDBsWaheUny3Cn5Ima4FxWmf8owaO/s57/57.png",
-      "sizes": "16x16 24x24 32x32 64x64",
-      "type": "image/x-icon"
+      "src": "https://i.ibb.co/0R4mnHcX/favicon-16x16.png",
+      "sizes": "16x16",
+      "type": "image/png"
     },
     {
-      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi3D8nS4rfC8BU0t5eAkLosRH4kBrAV3dH5Y8TYQVceKIXLUuO63C54HSkDIyDIJwvdXvJx8ZDWSQ5_5gEEWVXrszaXmHSKiECloWLADQvssri34ippuZhGvdBTZzijLQDGW3s_Vnu2KBZqjoZu5lTT5PxN1BBuDBsWaheUny3Cn5Ima4FxWmf8owaO/s57/57.png",
+      "src": "https://i.ibb.co/TD3LWz7d/favicon-32x32.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+    {
+      "src": "https://i.ibb.co/1JZNNyxL/android-icon-36x36.png",
       "sizes": "36x36",
       "type": "image/png",
       "purpose": "any maskable"
     },
     {
-      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi3D8nS4rfC8BU0t5eAkLosRH4kBrAV3dH5Y8TYQVceKIXLUuO63C54HSkDIyDIJwvdXvJx8ZDWSQ5_5gEEWVXrszaXmHSKiECloWLADQvssri34ippuZhGvdBTZzijLQDGW3s_Vnu2KBZqjoZu5lTT5PxN1BBuDBsWaheUny3Cn5Ima4FxWmf8owaO/s57/57.png",
+      "src": "https://i.ibb.co/G4SyTyPG/android-icon-48x48.png",
       "sizes": "48x48",
       "type": "image/png",
       "purpose": "any maskable"
     },
     {
-      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAfanOaqU8DFJamzjZsg_6wXFw2qb1twY_F2ZXFX0a0oSZs-UTSUreWz8f6dsFuV0EYwhK6fIfhXWkjzxegiZL4dJsuse13FP4knOI7UnAdGL_PFmoWu2kcMNIaLZ6bsQiceRSL_6OSVEhrDvXeJ-v9iU6Jjdz_co__wLVNF9NfdObI_q3rWaj7cwI/s72/72.png",
+      "src": "https://i.ibb.co/bRqDfyZv/apple-icon-57x57.png",
+      "sizes": "57x57",
+      "type": "image/png"
+    },
+    {
+      "src": "https://i.ibb.co/zV8xRJmH/apple-icon-60x60.png",
+      "sizes": "60x60",
+      "type": "image/png"
+    },
+    {
+      "src": "https://i.ibb.co/PZG04nr4/android-icon-72x72.png",
       "sizes": "72x72",
       "type": "image/png",
       "purpose": "any maskable"
     },
     {
-      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQ-G_G6RAL98wQN1BUdb8aT2F15-vIG3Z7XyZeoD6HbN-YvrNWTYF4OO7Lh4LxNfa0fEPuJQDJ9E2rhJPsi-naRfrdCBWrkPC0O9HKmunPGvtc-ojn9ah8EnQjxqWpSDKin35HWhORAT6A0fW7ktqIhVDZ7jchS_UTEexJ4HL5FrsfLMx6CGSls1X6/s76/76.png",
+      "src": "https://i.ibb.co/pvTBLXtR/apple-icon-76x76.png",
+      "sizes": "76x76",
+      "type": "image/png"
+    },
+    {
+      "src": "https://i.ibb.co/nqWMQpHv/android-icon-96x96.png",
       "sizes": "96x96",
       "type": "image/png",
       "purpose": "any maskable"
     },
     {
-      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEil5s0fDyBGY1dVVop5SFuZl-ZyJJJUH7BKbgAbAgPuqUWcT7lDQKCcTcb9O4mzmPY4q4QvuEcW4NQ-nPRh1AjIqaGKeQohtsXDdN3wIS7Tdypockqbzf020OEfUIHpRfFwqKgb7Lz8ZEvMiYbD5czCltXDiLY3eOErvR7LYghTxGNfQkq4EStknly3/s114/114.png",
+      "src": "https://i.ibb.co/zW7Vb1gX/apple-icon-114x114.png",
+      "sizes": "114x114",
+      "type": "image/png"
+    },
+    {
+      "src": "https://i.ibb.co/Y4D3NtvJ/apple-icon-120x120.png",
+      "sizes": "120x120",
+      "type": "image/png"
+    },
+    {
+      "src": "https://i.ibb.co/jkyzksSK/android-icon-144x144.png",
       "sizes": "144x144",
       "type": "image/png",
       "purpose": "any maskable"
     },
     {
-      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhuiU0s0nUcIqDlq--38vTKyhi2s17LiiytpuMPrvXDYMUk2UGLIYOMYvLLIptEkXn4ITZN4PgTeylKErFbc8R4YsO7skRRtSXa_ma7eTPF-QJt4uPIH1dJ-lt5m4TEX_u82xhTTCLG8-I0Eu0gWTmYJoKhv0VELMCitCe4sGVoExsAj-eUag5ULR72/s120/120.png",
-      "sizes": "192x192",
-      "type": "image/png",
-      "purpose": "any maskable"
+      "src": "https://i.ibb.co/svQqkW4b/apple-icon-152x152.png",
+      "sizes": "152x152",
+      "type": "image/png"
     },
     {
-      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitpHNeW4vrR8NTQdsOnE16e7wxWtcW7k_7EbZo0RA82BGfHb59M1p0zsDmzqiduJY1FiMRqXNzOQ1eksrP8N4mhGgcLE68gjT8ZuGa-GBJYeITLTiOwjHWCs-yyCkn2OP5ZkyUWgCI1RgCCMWJXCBQMAuPA9yT0QVDJawMxXWnWJ2OfA6LllJtzxfQ/s152/152.png",
-      "sizes": "512x512",
+      "src": "https://i.ibb.co/22rJ5XY/apple-icon-180x180.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    },
+    {
+      "src": "https://i.ibb.co/fztzbSf0/android-icon-192x192.png",
+      "sizes": "192x192",
       "type": "image/png",
       "purpose": "any maskable"
     }
   ],
   "screenshots": [
     {
-      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-rB7LT61wlRWkP28BP5w9BVTwYQ14V5ivgEcVGoZCC2ptsQZJ_l8SzqOoU8Z-g15wrpkiKcBDnhZObSk6Ly2Ga521ljdKjjMraoa7fVADelMVYwdHSv9hictK6qGZC_7EQBpVZ7yKZwaxBtyyjK0vytWoKl2FPh-VNsBmOhwVkG6Qj6XH5NuAQow7Hsom/s1600/Screenshot_2024-07-12-09-15-42-35_40deb401b9ffe8e1df2f1cc5ba480b12.jpg",
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJrnzrsn8wvLiCwRRJwozT7KEKzfz9DHJFD-0QNrohTqC-ERYgzaXz4LqjD3MgrLPh2YVp8EbjOThmTpjYlmxIKxVbnISEM4TmapQaEIls1yeT_BQRfuhfwDotw-b0Y4_kj3kmemWbqQwdXguVJjzW9JFNVhiiVA-HiPs0BrFc-dXvego2C6HldrAG8voE/s1600/Screenshot_2025-06-24-22-48-12-85_40deb401b9ffe8e1df2f1cc5ba480b12.jpg",
+      "type": "image/png",
+      "sizes": "540x720"
+    },
+      {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqbSEs77nnXyoWlJv96Fd4LoVf0Pn-seazRlT-apqzOlL_WC2sRxZsN3o0g57cLMtDACyioiKrDW8zdaqgKwBqr21oNqVlGw6mPX2ywATzja52gUk2FmeCpXi3BFO41vUv8aJY7WKa4NPlL8lZx_2JIr1FFlXe0HSsAHeygTleYpxD2PzYYVSskDc3eTp6/s1600/Screenshot_2025-06-24-22-46-33-26_40deb401b9ffe8e1df2f1cc5ba480b12.jpg",
       "type": "image/png",
       "sizes": "540x720"
     },
     {
-      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCYaEH46ynCEODPniAk4AynZloWsDP4Db9l9KD4VAxK5f1w4jqVxZZzlwAR_E71_pTLA9riMV1tzVkh8SQF0X7wBqtcdTo1QyaVbiiHkcOru7byOkQUDoDb1TjFTBBY3UqFX3OsNqiV0uFO3t9bwcf0rXDG-x6CYdJj37EeypBkV75XUGJjZ7CvkixvnPs/s1600/Screenshot_2024-07-12-09-15-17-58_40deb401b9ffe8e1df2f1cc5ba480b12.jpg",
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiesXMDLgO8pg3pip7OnZYbJrDmCHgN9Bp9g8yJ5JQvInI8zbZGT3bjLKGnpC69pAXmOhdKiHBgG5fRkijM23yH9JCf1O4WlkwNu9lABAWYf_SP1eX_yPOEaTlSAAn63hyqG_YtQz0fgqJvdTAJyE_r85PkAfQM-hrE3euTdsLw_9g9B47FxdNS4d7EPFJW/s1600/Screenshot_2025-06-24-22-47-50-22_40deb401b9ffe8e1df2f1cc5ba480b12.jpg",
       "type": "image/png",
       "sizes": "540x720"
     }
@@ -76,24 +115,24 @@
   "shortcuts": [
     {
       "name": "blogger template",
-      "short_name": "blogger template",
+      "short_name": "Drama",
       "description": "Quick access to blogger template",
-      "url": "/search/label/paid?utm_source=homescreen",
+      "url": "/search/label/Drama?utm_source=homescreen",
       "icons": [
         {
-          "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWf12nycBwaEfqVL08CAwuRN9EUZOd4s47l0oJAn96vTX8liQm74jFh3GmxEM1TgyGY6x0PJ1MMFwRc0-QWio3qbA_QLuc8mNj-4TybvWbmuqHAsI5JYV3T1SYT6y7yYtWyhOuAs0ri3_O1fRFC4Y3heI328E-kJTpaAOVwx6iA4YkxxMlTRhGnEYh/s180/180.png",
+          "src": "https://i.ibb.co/22rJ5XY/apple-icon-180x180.png",
           "sizes": "192x192"
         }
       ]
     },
     {
       "name": "Prayer Points",
-      "short_name": "Prayers",
-      "description": "Quick access to prayer points",
-      "url": "/search/label/Prayer%20Points?utm_source=homescreen",
+      "short_name": "Action",
+      "description": "Quick access to action movies",
+      "url": "/search/label/Action?utm_source=homescreen",
       "icons": [
         {
-          "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWf12nycBwaEfqVL08CAwuRN9EUZOd4s47l0oJAn96vTX8liQm74jFh3GmxEM1TgyGY6x0PJ1MMFwRc0-QWio3qbA_QLuc8mNj-4TybvWbmuqHAsI5JYV3T1SYT6y7yYtWyhOuAs0ri3_O1fRFC4Y3heI328E-kJTpaAOVwx6iA4YkxxMlTRhGnEYh/s180/180.png",
+          "src": "https://i.ibb.co/22rJ5XY/apple-icon-180x180.png",
           "sizes": "192x192"
         }
       ]
