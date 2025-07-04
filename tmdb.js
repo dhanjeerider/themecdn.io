@@ -214,7 +214,6 @@ window.liveSearch = liveSearch;
 window.performSearch = performSearch;
 
 // Constants
-const TMDB_API_KEY = "7bffed716d50c95ed1c4790cfab4866a";
 let currentPage = 1;
 let currentSearchPage = 1;
 let currentBrowsePage = 1;
