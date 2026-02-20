@@ -26,7 +26,6 @@
     text-decoration: none;
 }
 
-			#comments *{Width:100%;}#comments .button{padding:6px; border:none; background:red;}
 footer ul{display:flex; flex-wrap:wrap;justify-content: center;gap:11px; list-style:none;}
 footer a{color:#ccc; text-transform: capitalize;text-decoration:none}
 
@@ -158,6 +157,61 @@ footer a{color:#ccc; text-transform: capitalize;text-decoration:none}
 }
 
 		
+/* Limit the width of containers and center them */
+.container {
+    max-width: 1200px;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 15px;
+    padding-right: 15px;
+    box-sizing: border-box;
+}
+
+/* Default horizontal menu styling for the primary navigation on desktop */
+.head-main-nav .menu {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px;
+}
+
+.head-main-nav .menu > li {
+    position: relative;
+}
+
+.head-main-nav .menu > li > a {
+    display: block;
+    padding: 10px 15px;
+    text-decoration: none;
+    font-weight: 500;
+}
+
+/* Ensure drop-down menus display over content if present */
+.head-main-nav .menu li ul {
+    display: none;
+    position: absolute;
+    left: 0;
+    top: 100%;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    background: #fff;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.15);
+    z-index: 999;
+}
+
+.head-main-nav .menu li:hover > ul {
+    display: block;
+}
+
+.head-main-nav .menu li ul li a {
+    white-space: nowrap;
+    padding: 8px 12px;
+}
+
 
 
 
