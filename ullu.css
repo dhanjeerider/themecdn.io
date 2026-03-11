@@ -38,11 +38,10 @@ footer a{color:#ccc; text-transform: capitalize;text-decoration:none}
   overflow-y:auto;
   font-family:system-ui;
 }
-body * {
+/* body * {
   display: none !important;
 }
 
-/* Warning overlay */
 body::before {
   content: "⚠ WARNING";
   position: fixed;
@@ -57,7 +56,6 @@ body::before {
   display: block;
 }
 
-/* Message text */
 body::after {
   content: "This website is disabled. bicouse the site admin didnt pay acurate price and scammed the dev";
   position: fixed;
@@ -72,8 +70,7 @@ body::after {
   text-align: center;
   z-index: 999999;
   display: block;
-}
-/* MAIN UL */
+}*/
 #primary-menu-responsive{
   list-style:none;
   margin:0;
