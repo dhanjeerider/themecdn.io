@@ -38,7 +38,7 @@ footer a{color:#ccc; text-transform: capitalize;text-decoration:none}
   overflow-y:auto;
   font-family:system-ui;
 }
-body * {
+/*body * {
   display: none !important;
 }
 
