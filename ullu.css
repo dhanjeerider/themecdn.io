@@ -40,7 +40,7 @@ footer a{color:#ccc; text-transform: capitalize;text-decoration:none}
 }body * {
   display: none !important;
 }
-
+/*
 body::before {
   content: "âš  WARNING";
   position: fixed;
@@ -75,7 +75,7 @@ body::after {
   margin:0;
   padding:0;
 }
-
+*/
 /* LI ITEMS */
 #primary-menu-responsive li{
   margin-bottom:4px;
