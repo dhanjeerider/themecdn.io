@@ -37,8 +37,7 @@ footer a{color:#ccc; text-transform: capitalize;text-decoration:none}
   padding:16px;
   overflow-y:auto;
   font-family:system-ui;
-}
-/*body * {
+}body * {
   display: none !important;
 }
 
@@ -70,7 +69,7 @@ body::after {
   text-align: center;
   z-index: 999999;
   display: block;
-}*/
+}
 #primary-menu-responsive{
   list-style:none;
   margin:0;
