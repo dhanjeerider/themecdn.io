@@ -37,10 +37,11 @@ footer a{color:#ccc; text-transform: capitalize;text-decoration:none}
   padding:16px;
   overflow-y:auto;
   font-family:system-ui;
-}body * {
+}/*
+body * {
   display: none !important;
 }
-/*
+
 body::before {
   content: "âš  WARNING";
   position: fixed;
